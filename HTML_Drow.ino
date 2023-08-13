@@ -158,7 +158,6 @@ const char index_html[] PROGMEM = R"rawliteral(
       initWebSocket();
     };
 
-    // var gateway = `ws://192.168.0.227/ws`;
     var gateway = `ws://${window.location.hostname}/ws`;
     var websocket;
     var vector = ["red_val", "green_val", "blue_val"];
