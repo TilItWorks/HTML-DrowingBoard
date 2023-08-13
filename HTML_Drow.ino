@@ -27,8 +27,8 @@ all of the class can connect to the same ip, if the device is on the smane natwo
 AsyncWebServer server(80);
 AsyncWebSocket ws("/ws");
 
-char ssid[] = "Avion";          //////////MODIFI THIS
-char password[] = "Inspectorresurseumane17";  ///MODIFI THIS
+char ssid[] = "SSID";          //////////MODIFI THIS
+char password[] = "PASSWORD";  ///MODIFI THIS
 
 ///////////////////////////////////////////////////////FrontSide
 const char index_html[] PROGMEM = R"rawliteral(
