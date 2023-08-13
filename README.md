@@ -3,4 +3,6 @@ Download all the files. And install all the libraris in to the compiler (Sketch-
 
 Need to install ArduinoJson library. (https://arduinojson.org/v6/doc/installation/)
 
+Change the SSID, and PASSWORD
+
 
