@@ -1,6 +1,8 @@
 /*This script was created by Manciu Lucas and Busila Adrian
 For the script to work you will have to install all the libraries that are included below,
 and modify ssid and password section with you SSID and PASSWORD of you router.
+Settings:
+Set the Serial MOnitor B-rate to 115200.
 
 Behavior: 
 On wifi connection the built in led will start pulsating,
